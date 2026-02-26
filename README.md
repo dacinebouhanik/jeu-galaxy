@@ -56,7 +56,7 @@ user_actions.py # Gestion des entrées utilisateur
 
 ##
 <p align="center">
-  <img src="visualisation du projet galaxy/RESTART.jpeg" width="900"/>
+  <img src="visualisation du projet galaxy/RESTART .jpeg" width="900"/>
 </p>
 
 ---
